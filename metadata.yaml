@@ -5,12 +5,17 @@ contributor:
     agent_name: Davison, Robert
     gutenberg_agent_id: '48026'
     url: http://www.gutenberg.org/2009/agents/48026
+covers:
+- cover_type: archival
+  image_path: 54749-h/images/cover.jpg
 creator:
   author:
     agent_name: Carr, Sarah Pratt
     gutenberg_agent_id: '48025'
     url: http://www.gutenberg.org/2009/agents/48025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54749#Billy-To-morrow-s-Chums
 gutenberg_issued: '2017-05-20'
 gutenberg_type: Text
 identifiers:
